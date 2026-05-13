@@ -1,2 +1,6 @@
 streamlit
 langchain-ollama
+PyPDF2
+streamlit-option-menu
+openai
+groq
